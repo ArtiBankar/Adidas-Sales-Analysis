@@ -51,7 +51,8 @@ This project leverages Power BI to deliver interactive insights into Adidas's sa
 - **Top 5 Products**
 - **Revenue by Region**
 - **Sales Trend Over Time**
-
+![Power BI Dashboard](Adidas Sales Dashboard.png)
+![Power BI Dashboard](Adidas sales Analysis.png)
 ---
 
 ## 🎯 Objectives
@@ -70,4 +71,4 @@ This project leverages Power BI to deliver interactive insights into Adidas's sa
 
 ## 🙋‍♂️ Contact
 
-For queries or suggestions, please reach out via GitHub issues or email at [your.email@example.com].
+For queries or suggestions, please reach out via GitHub issues or email at [artibankar16@gmail.com].
