@@ -45,16 +45,9 @@ This project leverages Power BI to deliver interactive insights into Adidas's sa
 
 ## 📊 Sample KPIs Tracked
 
-- **Total Revenue**
-- **Total Profit**
-- **Units Sold**
-- **Top 5 Products**
-- **Revenue by Region**
-- **Sales Trend Over Time**
----
 ![Power BI Dashboard](Adidas Sales Dashboard.png)
 ![Power BI Dashboard](Adidas sales Analysis.png)
-
+---
 
 ## 🎯 Objectives
 
