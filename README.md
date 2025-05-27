@@ -53,9 +53,8 @@ This project leverages Power BI to deliver interactive insights into Adidas's sa
 - **Sales Trend Over Time**
 ---
 ## Sample Dashboard
-![Power BI Dashboard](Adidas Sales Dashboard.png)
 <img src="Adidas Sales Dashboard.png" alt="Dashboard" width="700"/>
-![Power BI Dashboard](Adidas sales Analysis.png)
+<img src="Adidas sales Analysis.png" alt="Dashboard" width="700"/>
 
 ## 🎯 Objectives
 
